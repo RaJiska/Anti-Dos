@@ -1,5 +1,5 @@
 # Anti Dos
-Aims to prevent basic DoS attacks
+Aims to prevent basic DoS attacks by analyzing the flow of ingoing packets and blocking IP address of a client if it sends too many packets within a given amount of time.
 
 # Usage
 Scan Port 22
